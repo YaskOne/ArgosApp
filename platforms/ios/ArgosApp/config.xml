@@ -77,10 +77,10 @@
     </feature>
     <name>ArgosApp</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Hello.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        YaskOne
     </author>
     <content src="index.html" />
     <icon src="icon.png" />
