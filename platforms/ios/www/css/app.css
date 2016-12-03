@@ -9739,7 +9739,7 @@ body {
 .picture_infos {
   width: 100px;
   height: 25px;
-  marging-top: 75px; }
+  margin-top: 75px; }
 
 .square_picture {
   width: 100px;
@@ -9862,6 +9862,9 @@ body {
 .object-fit_cover {
   -o-object-fit: cover;
   object-fit: cover; }
+
+select {
+  min-width: 300px; }
 
 /*
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
